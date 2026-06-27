@@ -1,8 +1,7 @@
-app.py
-requirements.txt
-templates/
-    index.html
-static/
-    BJP.png
-    INC.png
-    aap.jpg
+github-pages/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+default password is 6344
